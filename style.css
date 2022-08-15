@@ -421,7 +421,7 @@ header {
 
 
 /* ========================desktop view=============== */
-@media screen and (min-width: 1013px) {
+@media screen and (min-width: 1440px) {
 
     .pord-img2,
     .pord-img3 {
